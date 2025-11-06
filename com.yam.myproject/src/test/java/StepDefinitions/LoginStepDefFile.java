@@ -62,8 +62,9 @@ public class LoginStepDefFile {
 
 	@Then("user should navigate to login page")
 	public void user_should_navigate_to_login_page() {
-	    // Write code here that turns the phrase above into concrete actions
+	    // Writss	e code here that turns the phrase above into concrete actions
 	    System.out.println("login is successful");
+	    
 	}
 
 }
